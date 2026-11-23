@@ -1,0 +1,5 @@
+subject_id,subject_name,grade,total_marks
+SUB001,Physics,11,100
+SUB002,Mathematics,11,100
+SUB003,Python Programming,12,100
+SUB004,Chemistry,11,100
